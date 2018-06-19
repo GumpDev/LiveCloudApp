@@ -1,0 +1,10 @@
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.csprojAssemblyReference.cache
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.Form1.resources
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.Properties.Resources.resources
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.csproj.GenerateResource.cache
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.csproj.CoreCompileInputs.cache
+C:\Users\Gump\LiveCloud\LiveCloud\bin\Debug\LiveCloud.exe.config
+C:\Users\Gump\LiveCloud\LiveCloud\bin\Debug\LiveCloud.exe
+C:\Users\Gump\LiveCloud\LiveCloud\bin\Debug\LiveCloud.pdb
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.exe
+C:\Users\Gump\LiveCloud\LiveCloud\obj\Debug\LiveCloud.pdb
